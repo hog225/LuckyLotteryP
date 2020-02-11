@@ -19,23 +19,23 @@ you can get App below link. Happy lottering ~!
 
 
 ## Getting Started
----
+
 1. `git clone https://github.com/hog225/LuckyLotteryP.git`
 2. `cd` LuckyLotteryP
 3. `npm install` or `yarn install`
 4. Run `npx react-native run-android` or `npx react-native run-ios`
 
 ## Package Use Tip
----
-## react-navigation
+
+### react-navigation
 [설치법](https://reactnavigation.org/docs/en/getting-started.html#installing-dependencies-into-an-expo-managed-project) 
 
-## react-native-vector-icons
+### react-native-vector-icons
 1. Android Gradle 파일을 수정해 줘야 함 - [방법](https://github.com/oblador/react-native-vector-icons#android)
 2. IOS 의 경우 Font를 수동으로 프로젝트에 추가해 줘야 함
 
-## Custom Icon (react-native-custom-icon)
----
+### Custom Icon (react-native-custom-icon)
+
 #### Android
 0. [여기 참고](https://freakycoder.com/react-native-library-react-native-custom-icon-1ec0b734d691)
 1. yarn add react-native-custom-icon
@@ -50,7 +50,6 @@ you can get App below link. Happy lottering ~!
 4. 안될때는 build 폴더 삭제 
 
 ## Android Launcher Icon Change
----
 1. Android Studio 에서 RN 프로젝의 android 폴더를 연다. 
 2. File > Sync Project with Gradle files 로 Gradle을 업데이트 한다. 
 3. app > res (generated 가 없는 것) 우클릭 해서 New > Image Asset 을 Open 한다. 
