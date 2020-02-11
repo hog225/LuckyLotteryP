@@ -1,0 +1,23 @@
+{
+    "btn_create": "Create",
+    "btn_save": "Save",
+    "title_ask_input_lucky_word": "Enter your Luckywords",
+    "title_explain_lucky_word": "Generate lottery numbers using lucky words",
+    "placeholder_word1": " word 1",
+    "placeholder_word2": " word 2",
+    "placeholder_word3": " word 3",
+    "title_catch_lucky": "Get your luck today!",
+    "tab_lotto": "Lotto",
+    "tab_gen_number": "Saved",
+    "tab_lucky_word": "Luckyword",
+    "btn_finish": "Done",
+    "title_no_saved_number": "No Saved Lotto Numbers",
+    "toast_no_numbers": "Create lotto number first",
+    "title_lotto": "Lotto",
+    "title_mm": "Mega Millions",
+    "title_pb": "Powerball",
+    "title_tb": "Thunderball",
+    "title_ss": "Saturday Super Lotto",
+    "title_j5": "Jaldi5",
+    "title_no_number": "No saved number"
+}

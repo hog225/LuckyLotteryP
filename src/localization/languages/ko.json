@@ -1,0 +1,23 @@
+{
+    "btn_create": "생성",
+    "btn_save": "저장",
+    "title_ask_input_lucky_word": "행운의 단어를 입력해 보세요",
+    "title_explain_lucky_word": "행운의 단어를 이용해 로또 번호를 생성합니다",
+    "placeholder_word1": " 단어 1",
+    "placeholder_word2": " 단어 2",
+    "placeholder_word3": " 단어 3",
+    "title_catch_lucky": "오늘의 행운을 잡으세요!",
+    "tab_lotto": "로또",
+    "tab_gen_number": "저장한 번호",
+    "tab_lucky_word": "행운의 단어",
+    "btn_finish": "완료",
+    "title_no_saved_number": "저장된 번호가 없습니다",
+    "toast_no_numbers": "번호를 먼저 생성하세요!",
+    "title_lotto": "로또",
+    "title_mm": "메가 밀리언즈",
+    "title_pb": "파워볼",
+    "title_tb": "썬더볼",
+    "title_ss": "세터데이 슈퍼 로또",
+    "title_j5": "잘디5",
+    "title_no_number": "저장된 번호가 없습니다."
+}
